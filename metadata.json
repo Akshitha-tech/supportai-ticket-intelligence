@@ -1,0 +1,6 @@
+{
+  "name": "SupportAI – Ticket Intelligence",
+  "description": "Enterprise AI-powered customer support ticket classification and priority prediction system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
